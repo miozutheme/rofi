@@ -1,0 +1,22 @@
+/* Last edited 12 May 2023 */
+/* Rofi Miozu theme using rasi variables */
+/* Author Nicholas Glazer */
+/* Read more at https://miozu.com/colors */
+* {
+  base1:   #232733; /* Miozu00 | background*/
+  base2:   #2C3040; /* Miozu01 | lighter background*/
+  base3:   #3E4359; /* Miozu02 */
+  base4:   #565E78; /* Miozu03 | comments */
+  base5:   #737E99; /* Miozu04 | alternative foreground*/
+  base6:   #D0D2DB; /* Miozu05 */
+  base7:   #F3F4F7; /* Miozu06 | foreground */
+  base8:   #FAFDFB; /* Miozu07 | lighter foreground */
+  red:     #EB3137; /* Miozu14 | error */
+  orange:  #FF9837; /* Miozu13 | numbers */
+  green:   #6DD672; /* Miozu11 | success */
+  yellow:  #E8D176; /* Miozu10 | warnings */
+  blue:    #83D2FC; /* Miozu12 | constants, operators */
+  magenta: #C974E6; /* Miozu08 | functions*/
+  peach:   #FF9982; /* Miozu09 | keywords */
+  cyan:    #40FFE2; /* Miozu15 | methods */
+}
